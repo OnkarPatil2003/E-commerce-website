@@ -1,0 +1,2 @@
+- A functional e-commerce website has been developed using HTML, CSS, and JavaScript. featuring key functionalities
+-  with ongoing improvements planned.
