@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .flexcenter {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .sec1 {
+        height: auto;
+       width: 100%;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+      }
+      .sec1 > p {
+        font-size: xx-large;
+        padding: 40px;
+        width: 80%;
+      }
+      .sec1-allproduct {
+        height: auto;
+        width: 80%;
+        font-family: "Times New Roman", Times, serif, Cambria, Cochin;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-rows: repeat(auto-fit, 500px);
+        gap: 10px;
+      }
+
+      .product {
+        height: auto;
+        padding: 10px;
+        border: none;
+        box-shadow: 0 0 7px rgb(146, 144, 144);
+        flex-direction: column;
+      }
+      .product > img {
+        height: 300px;
+        width: 100%;
+        aspect-ratio: 16/19;
+        /* padding: 30px; */
+        image-rendering: pixelated;
+        object-fit: contain;
+      }
+      .product > p {
+        margin: 3px;
+      }
+      .product > p:nth-child(2) {
+        color: rgba(255, 72, 0, 0.753);
+        text-align: left;
+        font-weight: bold;
+      }
+      .product > p:nth-child(3) {
+        color: gray;
+        overflow: hidden;
+        height: 50px;
+      }
+      .product > p:nth-child(4) {
+        font-size: 22px;
+        font-weight: bold;
+        align-self: self-start;
+      }
+      .product > p:nth-child(5) {
+        border: none;
+        padding: 3px;
+        border-radius: 10px;
+        background-color: rgba(128, 128, 128, 0.322);
+        color: rgb(90, 87, 87);
+        text-transform: capitalize;
+
+        align-self: self-start;
+      }
+      .product > div {
+        align-self: self-start;
+        padding: 10px 0;
+      }
+      .product > div > p:nth-child(1) {
+        border-radius: 20px;
+        margin: 0 5px;
+        padding: 2px 10px;
+        color: white;
+        font-size: 19px;
+        background-color: rgb(5, 161, 5);
+      }
+      .product > div > p:nth-child(1) > img {
+        height: 20px;
+        width: 100%;
+        margin-left: 10px;
+      }
+      .product > div > p:nth-child(2) {
+        color: rgb(102, 101, 101);
+      }
+    </style>
+  </head>
+  <body>
+    <section class="sec1">
+      <p>products</p>
+
+      <div class="sec1-allproduct"></div>
+    </section>
+
+    <script src="./shop.js"></script>
+  </body>
+</html>

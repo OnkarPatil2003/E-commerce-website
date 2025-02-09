@@ -1,0 +1,622 @@
+[
+  {
+    "identity": 1,
+    "name": "Wireless Bluetooth Earbuds",
+    "price": 59.99,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSf2DBfIbzK-zCB-gg429IUlbIt6-0FmnqQ5DR01awnSAKKKIJacp-k20ZOtW0W50kqDsHrnt-bjuShOQcfz2P3d1ilZsazMiIpcibKevS_UKkjERh0_djRhw",
+    "description": "High-quality sound with noise cancellation.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 2,
+    "name": "Smart Watch Series 5",
+    "price": 199.99,
+    "image": "https://images.snapmint.com/product_assets/images/000/893/840/large/open-uri20230722-21374-1bghshu?1690006084",
+    "description": "Track your fitness and stay connected.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 3,
+    "name": "4K Ultra HD Smart TV",
+    "price": 499.99,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZebPmacij7bMiQimLizS77gYis_FFXX3mZqkE6tOCDPvyy7HX6Q8oRHt7eH0E7olXFbajoxIG1VpprgAsCi_EF8ardTq6mvX_AJLuOPjMjlqU1iZh8arAAUE",
+    "description": "Experience stunning picture quality.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 4,
+    "name": "Gaming Laptop",
+    "price": 1299.99,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSdwwKiyCWbZQGmmI0GOynmGd6DZPZx4INHwjQtYCCKHL2OP1Omz0lvMOn5x-6iXQIkOiu2MzfA-1w5hZP9kCasyPefX6e_kuKawLlUFheboH_cWkNL6iuuCw",
+    "description": "High-performance gaming on the go.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 5,
+    "name": "Noise-Cancelling Headphones",
+    "price": 149.99,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTixSaB6f1_23JSQvnOvCWGk6-7iMnCGNEWEWj_y9Lkj-znEOZazcCvwUZCkiyoI7p6LJkKhkvzn0dGXlSyq2V0YmKesiLddOskOqE8Axrbk2ArTYkCJ7t0",
+    "description": "Immersive sound experience.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 6,
+    "name": "Wireless Charging Pad",
+    "price": 29.99,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41emxaGol1L.SS700.jpg",
+    "description": "Fast and convenient charging.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 7,
+    "name": "Smart Home Security Camera",
+    "price": 89.99,
+    "image": "https://images.dotmed.com/cgi-bin/size.pl?i=4555182.jpg&s=640&t=2",
+    "description": "Monitor your home from anywhere.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 8,
+    "name": "Portable Bluetooth Speaker",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/51fKlAsW8ZL.SX300_SY300_QL70_FMwebp.jpg",
+    "description": "Take your music anywhere.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 9,
+    "name": "Electric Pressure Cooker",
+    "price": 79.99,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpO5LyzvY5AvklFf67n-QOBhZbEOOg-zxUsXmmcumh-AKhzalACkXd--p2sU6LX8JJ6U1r1DuyB9p1KPAD3TyDqiuSd8rxUTE8XlNRuHIRGWHJKPf5K84s",
+    "description": "Cook meals faster and easier.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 10,
+    "name": "Fitness Tracker Band",
+    "price": 39.99,
+    "image": "https://m.media-amazon.com/images/I/61-PhP53C2L.jpg",
+    "description": "Track your steps and heart rate.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+   {
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109.95,
+        "delivery" : "free delivery",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22.3,
+        "delivery" : "free delivery",
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Mens Cotton Jacket",
+        "price": 55.99,
+        "delivery" : "free delivery",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Mens Casual Slim Fit",
+        "price": 15.99,
+        "delivery" : "free delivery",
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price": 695,
+        "delivery" : "free delivery",
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Solid Gold Petite Micropave ",
+        "price": 168,
+        "delivery" : "free delivery",
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "delivery" : "free delivery",
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "price": 10.99,
+        "delivery" : "free delivery",
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "price": 64,
+        "delivery" : "free delivery",
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "price": 109,
+        "delivery" : "free delivery",
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+  {
+    "identity": 11,
+    "name": "Wireless Gaming Mouse",
+    "price": 69.99,
+    "image": "https://m.media-amazon.com/images/I/41awDw7jj7L.SX300_SY300_QL70_FMwebp.jpg",
+    "description": "Precision and comfort for gamers.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 12,
+    "name": "External SSD 1TB",
+    "price": 129.99,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRi4ZlIjfFBZCL1vs-XLZSBdVX5h5yu8-Ut2xFK1Kxl2fkU6h3TKjpLCWdozCkPT4QcyeZMn9Q1fHMLTt8PPaSBDmBIfno8thR6jL3mukI0StkK-Bb2aaR9JA",
+    "description": "Fast and portable storage.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 13,
+    "name": "Smart Thermostat",
+    "price": 149.99,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPFUAsGQa1Q0HgEmEZjIwltHv2ryGfTqubKMcs09uvKFHxgQHHCmyAMi0VpgszbXHM_H7qGFTbU1k-KmHYY8kDWBp7E3g0xyvZ9EUuGxUeQObQZlKwdIb2PEI",
+    "description": "Save energy with smart temperature control.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 14,
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61FtJqwjaPL.SL1200.jpg",
+    "description": "Professional cleaning at home.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 15,
+    "name": "Air Purifier",
+    "price": 199.99,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKHRhoONnaoeFCXXH3YCGRiwt4UqUAhy00tXGQRUWAiOHmvxGTIvQ8qBvFK-_cEhofR8J3Rs3Dk7ygaEZzMW4glRbFmuX-LUrEL7mEnN4Czt5WJnch92CcPKMZ",
+    "description": "Breathe cleaner air.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 16,
+    "name": "Robot Vacuum Cleaner",
+    "price": 299.99,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9lAL7lIJGDpXD6UquxYoNsxUfjvog9QXfVJwBANIEbWsgIa_uOCjwNmY1wAcb6QLvzraOCRkpCWSyO10EbmeJEMjXYxnyy5MASU6T_h46uWhVYYFEZTC5",
+    "description": "Effortless cleaning for your home.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 17,
+    "name": "Wireless Keyboard and Mouse Combo",
+    "price": 59.99,
+    "image": "https://images-cdn.ubuy.co.in/633a9f113e12394325796c5a-wireless-gaming-keyboard-and.jpg",
+    "description": "Work or play with ease.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 18,
+    "name": "Smart Light Bulbs",
+    "price": 29.99,
+    "image": "data:image/webp;base64,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",
+    "description": "Control your lights with your phone.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 19,
+    "name": "Portable Projector",
+    "price": 199.99,
+    "image": "https://m.media-amazon.com/images/I/31HfuoZmunL.SX300_SY300_QL70_FMwebp.jpg",
+    "description": "Enjoy movies anywhere.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 20,
+    "name": "Electric Scooter",
+    "price": 399.99,
+    "image": "https://m.media-amazon.com/images/I/31sOzfEYloL.SY300_SX300_QL70_FMwebp.jpg",
+    "description": "Eco-friendly and fun transportation.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "delivery" : "free delivery",
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 319
+    }
+},
+{
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "delivery" : "free delivery",
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 4.8,
+        "count": 400
+    }
+},
+{
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "delivery" : "free delivery",
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 250
+    }
+},
+{
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "delivery" : "free delivery",
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+        "rate": 2.2,
+        "count": 140
+    }
+},
+{
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "delivery" : "free delivery",
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+        "rate": 2.6,
+        "count": 235
+    }
+},
+{
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "delivery" : "free delivery",
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+        "rate": 2.9,
+        "count": 340
+    }
+},
+{
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "delivery" : "free delivery",
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+        "rate": 3.8,
+        "count": 679
+    }
+},
+{
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "delivery" : "free delivery",
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+        "rate": 4.7,
+        "count": 130
+    }
+},
+{
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "delivery" : "free delivery",
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+},
+{
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "delivery" : "free delivery",
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+        "rate": 3.6,
+        "count": 145
+    }
+},
+  {
+    "identity": 21,
+    "name": "Wireless Over-Ear Headphones",
+    "price": 99.99,
+    "image": "https://m.media-amazon.com/images/I/31QB73-5IEL.SX300_SY300_QL70_FMwebp.jpg",
+    "description": "Comfortable and immersive sound.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 22,
+    "name": "Smart Plug",
+    "price": 19.99,
+    "image": "https://vsprod.vijaysales.com/media/catalog/product/1/5/159917-image1_4.jpg?optimize=medium&fit=bounds&height=&width=",
+    "description": "Control your devices remotely.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 23,
+    "name": "Electric Kettle",
+    "price": 39.99,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRs1nSRqUJKafKA99eoC6U6I4d2F-3gt1Aauva7anl3dohVS_GFng0tJucSyLPMsYibd03Vj8vqRDr8fgklZcfmcXY2dqA1NuwIX59hfizbEv2MHOKN8hMPXg",
+    "description": "Boil water quickly and efficiently.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 24,
+    "name": "Fitness Smart Scale",
+    "price": 49.99,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5NCDr9OSxRqN666yKI81yJikJd6tYJ69ELFJzUbv6oHU5ltHqcuxNu96wNQOtcisQWXuvWPkKzS6-gwpb4d2L7C8ok2MqlOTonteCQn4ha-lLHnSkGKjL-cSEo41vO7eLNBxzTefxqJo&usqp=CAc",
+    "description": "Track your weight and body composition.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 25,
+    "name": "Wireless Earbuds Pro",
+    "price": 129.99,
+    "image": "data:image/webp;base64,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",
+    "description": "Premium sound with active noise cancellation.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 26,
+    "name": "Smart Doorbell",
+    "price": 149.99,
+    "image": "data:image/webp;base64,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",
+    "description": "See and speak to visitors from your phone.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 27,
+    "name": "Electric Blanket",
+    "price": 59.99,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRf2J157U2oNJR6lNYalh9SeCPr5RpgjqTKjPYpOlFTqP9YDnkFYm7ZLhT4STKBGsuN1aosiIWrPMPg7UFcqG6DrC8caKalYa7i6XWsyGQgvkX9yrKrT41uF0UzhBSu6-9xMbxMoSe&usqp=CAc",
+    "description": "Stay warm and cozy.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 28,
+    "name": "Wireless Charging Stand",
+    "price": 34.99,
+    "image": "data:image/webp;base64,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",
+    "description": "Charge your phone and watch simultaneously.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 29,
+    "name": "Smart Air Fryer",
+    "price": 89.99,
+    "image": "data:image/jpeg;base64,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",
+    "description": "Cook healthier meals with less oil.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  },
+  {
+    "identity": 30,
+    "name": "Portable Power Bank",
+    "price": 29.99,
+    "image": "data:image/webp;base64,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",
+    "description": "Charge your devices on the go.",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "delivery": "free delivery"
+  }
+]

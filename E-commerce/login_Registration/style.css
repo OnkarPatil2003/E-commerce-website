@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.border{
+    border: 1px solid black;
+}
+.sec1{
+    height: 100vh;
+    width: 100vw;
+   position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/20104.jpg');
+    image-rendering:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec1-div{
+    padding: 20px;
+    height: 500px;
+    width: 50%;
+    display: flex;
+    box-shadow: 0 0 15px rgb(124, 123, 121);
+    background-color: rgba(225, 225, 225, 0.171);
+    border-radius: 15px;
+    animation: fade 1s;
+}
+.sec1-div-reverse{
+    flex-direction: row-reverse;
+}
+.sec1-div-reverse-1{
+    flex-direction: row;
+}
+.sec1-div1{
+    flex-basis: 50%;
+    background-image: url('https://t3.ftcdn.net/jpg/02/64/92/28/360_F_264922838_NErJEovZiP9MTa49apqL1Vs3f88ZT8Dg.jpg');
+    background-position-x: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.myanimation{
+    transform: translateX(0px);
+    animation: myanime 2s ease-in-out ;
+}
+.myanimation_reverse{
+    transform: translateX(0px);
+    animation: myanimereverse 2s ease-in-out ;
+}
+.sec1-div2{
+    flex-basis: 50%;
+    /* background-color: rgb(137, 47, 255); */
+}
+.sec1-form{
+    padding: 0 30px;
+    display: flex;
+    flex-direction: column;
+    font-family: Cambria;
+    
+}
+.pandimg{
+    display: flex;
+
+}
+.p{
+    flex-basis: 90%;
+    font-size: clamp(27px,21px,16px);
+    text-align: center;
+}
+.close{
+   flex-basis: 10%;
+   height: 50px;
+   padding: 10px;
+}
+@keyframes myanime {
+    0%{
+        
+        transform: translateX(-100%);
+    }
+    100%{
+        
+        transform: translateX(0px);
+    }
+}
+@keyframes myanimereverse {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
+.sec1-form > p{
+    font-size: clamp(30px,21px,16px);
+    text-align: center;
+    /* margin-bottom: 20px; */
+}
+.sec1-form > label{
+   
+    padding: 10px;
+    font-size: clamp(21px,20px,25px);
+}
+.sec1-form > input{
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
+.sec1-form > button{
+    margin-top: 30px;
+    width: 50%;
+    align-self: center;
+    padding: 13px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    background-color: #1670cf;
+}
+#Register{
+    margin: 10px;
+    
+}
+.sec1-form > button:nth-child(7){
+    width: 40%;
+    padding: 10px;
+    align-self: flex-end;
+    background-color: red;
+}
+.sec1-form > button:nth-child(7):hover{
+    background-color: rgb(163, 7, 7);
+}
+.sec1-form > button:hover {
+    background-color: #0056b3;
+}
+.sec1-form > a{
+    text-decoration: none;
+    color: rgb(138, 7, 7);
+    align-self:flex-end;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.sec1-div3{
+    display: none;
+    flex-basis: 50%;
+}
+
+@keyframes fade {
+    0%{
+        opacity: 0.2;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
+@media screen and (max-width : 550px) {
+    
+    .sec1-div{
+        height: minmax(150px, auto);
+        width: 90%;
+    }
+    .sec1-div1{
+        flex-basis: 20%;
+        background-image: url('https://preview.redd.it/qla3ajhtjlj11.png?width=1080&crop=smart&auto=webp&s=cdab4570bab2158982280cd8c55e123c9675bf24');
+    }
+    .sec1-div2{
+        flex-basis: 80%;
+    }
+    .sec1-div3{
+        flex-basis: 80%;
+    }
+    .sec1-form >p{
+        font-size: 23px;
+    }
+    .p{
+        font-size: 20px;
+    }
+    .close{
+        height: 40px;
+    }
+    .sec1-form >label{
+        font-size: 18px;
+        padding: 7px;
+    }
+    @keyframes myanime {
+        0%{
+            transform: translateX(-400%);
+        }
+        100%{
+            transform: translateX(0px);
+        }
+        
+    }
+    @keyframes myanimereverse {
+        0%{
+            transform: translateX(400%);
+        }
+        100%{
+            transform: translateX(0%);
+        }
+    }
+}
+@media (min-width: 550px) and (max-width: 830px) {
+    .sec1-div {
+    width: 70%;
+    display: block; 
+    }
+    }
+    
